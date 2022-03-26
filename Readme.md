@@ -179,7 +179,7 @@ builder.Logging.AddSerilog(logger);
 เพิ่มโค้ดส่วนนี้ในไฟล์ appsetting.json
 - AD
 ```bash
-"LdapDomain": "AUTO"
+"LdapDomain": "domain_xxx"
 ```
 - MailSMTP
 ```bash
