@@ -185,7 +185,7 @@ builder.Logging.AddSerilog(logger);
 ```bash
    "MailServerConfiguration": {
     "Host": "10.0.0.xx",
-    "Port": 25,
+    "Port": xx,
     "MailTemp": "D:\\MailTemp",
     "MailFrom": "net6@mail.com",
     "MailTo": "net6@mail.com",
